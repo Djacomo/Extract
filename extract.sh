@@ -1,5 +1,5 @@
 #!/bin/bash
-# function Extract for common file formats
+# Funzione di shell "extract", per estrarre i formati piu' conosciuti
 
 function extract {
  if [ -z "$1" ]; then
