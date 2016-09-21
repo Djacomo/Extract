@@ -1,21 +1,22 @@
 
 
-Command/function `extract` in your console
+Commando `extract` nella tua shell bash
 =================================
 
 What’s a good way to extract: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz files on the Mac or Linux?
+Qual è il miglior modo di estrarre: file .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz con Mac o Linux?
 
-The goal is to make `extract` able to extract anything you give it. The command `extract` uses the free unpackers to support many older, obscure formats like this: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz
+L' obiettivo è quello di rendere `extract` capace di estrarre qualunque cosa tu gli dica. Il comando `extract` utilizza le utility di decompressione libere per supportare molti formati obsoleti, strani come: .zip, .rar, .bz2, .gz, .tar, .tbz2, .tgz, .Z, .7z, .xz, .exe, .tar.bz2, .tar.gz, .tar.xz
 
 
-How to install (Mac OS X)
+Installazione (Mac OS X)
 -------------------------
 
 ### Mac OS X
-Copy&Paste function into file `~/.bash_profile`
+Copia/Incolla la funzione nel file `~/.bash_profile`
 
 ### Ubuntu / *nix
-Copy&Paste function into file `~/.bashrc`
+Copia/Incolla la funzione nel file `~/.bashrc`
 
 
 I use hosting
